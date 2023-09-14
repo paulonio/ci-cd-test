@@ -4,6 +4,9 @@ function App() {
   useEffect(() => {
     console.log(111);
   }, [])
+}
+
+function App() {
 
   return (
     <>
