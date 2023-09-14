@@ -9,6 +9,7 @@ console.log('master');
 root.render(
   <React.StrictMode>
     <App />
+    <p>Some index text</p>
   </React.StrictMode>
 );
 
