@@ -7,7 +7,7 @@ function App() {
     <>
       <input value={state} onChange={(e) => setState(e.target.value)} />
       <h1>Hello World!!!!</h1>
-      <h2>... and React!</h2>
+      <h2>... ..... and React!</h2>
     </>
   );
 };
